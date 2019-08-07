@@ -1,4 +1,4 @@
-# MY PETS WEBSITE
+# MY PET
 #### It contains information about my pet, 7/8/2019
 #### By **Denning Kevin**
 ## Description
